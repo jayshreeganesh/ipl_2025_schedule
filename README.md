@@ -28,7 +28,7 @@ This project is a web-based application that displays the **IPL 2025 season sche
 
 ## File Structure
 ```
-ipl-2025-schedule/
+ipl_2025_schedule/
 │── index.html       # Main HTML file
 │── styles.css       # Stylesheet for UI
 │── script.js        # JavaScript file for dynamic interactions
