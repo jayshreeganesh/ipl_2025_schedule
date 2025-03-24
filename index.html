@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPL 2025 Schedule</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>IPL 2025 Season Schedule</h1>
+        <input type="text" id="search" placeholder="Search matches...">
+        <select id="team-filter">
+            <option value="">All Teams</option>
+            <option value="RCB">Royal Challengers Bengaluru</option>
+            <option value="RR">Rajasthan Royals</option>
+            <option value="MI">Mumbai Indians</option>
+            <option value="LSG">Lucknow Super Giants</option>
+            <option value="PBKS">Punjab Kings</option>
+            <option value="KKR">Kolkata Knight Riders</option>
+            <option value="SRH">Sunrisers Hyderabad</option>
+            <option value="DC">Delhi Capitals</option>
+            <option value="GT">Gujarat Titans</option>
+            <option value="CSK">Chennai Super Kings</option>
+        </select>
+    </header>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Match No</th>
+                <th>Date</th>
+                <th>Day</th>
+                <th>Time</th>
+                <th>Home Team</th>
+                <th>Away Team</th>
+                <th>Venue</th>
+            </tr>
+        </thead>
+        <tbody id="schedule">
+            <!-- Matches will be dynamically inserted here -->
+        </tbody>
+    </table>
+</body>
+</html>
