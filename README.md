@@ -49,8 +49,8 @@ Contributions are welcome! Feel free to submit a pull request with improvements.
 ## License
 This project is licensed under the **MIT License**.
 
-## Contact
+<!-- ## Contact
 For any queries, feel free to reach out:
 - Email: support@ipl2025.com
-- Website: [IPLT20.com](https://www.iplt20.com)
+- Website: [IPLT20.com](https://www.iplt20.com) -->
 
